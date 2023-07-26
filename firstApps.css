@@ -1,1 +1,9 @@
 /* テスト用のスタイルシート*/
+.main_title	{
+	background-color: navy;
+	color: whitesmoke;
+	font-size: 2em;
+	font-weight: bold;
+	width: 25vw;
+	margin: 2vh auto;
+}
